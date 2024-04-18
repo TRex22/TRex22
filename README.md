@@ -3,7 +3,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?column=8&no-frame=true&no-bg=true&username=TRex22)](#)
 
 - Senior Software Engineer
-- AI Researcher / Masters Candidate 
+- AI Researcher 
 - Amateur Astrophotographer
 - Maker
-- Occassional System Admin
+- Occassional System Admin, Network Admin, and Security Engineer
